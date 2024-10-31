@@ -1,5 +1,9 @@
 # Célula animal
 
+Matriz de uma célula animal para uso em termoformadora.
+
+O recurso conta com 3 arquivos, sendo que os arquivos em PDF devem ser impressos (coloridos) em folha A3. O arquivo com extensão dxf deve ser utilizado para o recorte da matriz.
+
 ## Autor
 
 - [@bruno-egami](https://github.com/bruno-egami)
