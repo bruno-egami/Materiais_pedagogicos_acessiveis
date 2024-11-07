@@ -3,6 +3,7 @@
 ## Autor
 
 - [@bruno-egami](https://github.com/bruno-egami)
+- [@CRTA]([https://cta.ifrs.edu.br/crta/o-que-e-o-crta/])
 
 
 ## Licença
