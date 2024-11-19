@@ -1,5 +1,7 @@
 # Materiais_pedagogicos_acessiveis
 
+Os materiais aqui disponibilizados foram desenvolvidos para serem confeccionados utilizando mdf/acrílico na máquina de corte a laser e/ou impressão 3D.
+
 ## Autor
 
 - [@bruno-egami](https://github.com/bruno-egami)
